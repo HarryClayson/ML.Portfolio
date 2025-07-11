@@ -3,4 +3,4 @@ available files:
 - LinReg with data
 - precision, recall and F1
 - spam email detection system (probability judgements)
-- data organisation (sort_values, booleans, value_counts, combining booleans)
+- data organisation (sort_values, booleans, value_counts, combination and inversion of booleans, compound functions)
