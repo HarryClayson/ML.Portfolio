@@ -1,3 +1,6 @@
 available files:
 - linear regression
 - LinReg with data
+- precision, recall and F1
+- spam email detection system (probability judgements)
+- data organisation (sort_values, booleans, value_counts, combining booleans)
